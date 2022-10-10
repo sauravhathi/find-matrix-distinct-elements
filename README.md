@@ -13,3 +13,14 @@
 
 ## Matrix Size Options
 ![image](https://user-images.githubusercontent.com/61316762/194877215-f9cc68be-d995-4d65-a55a-69f61a2235ab.png)
+
+```python
+Matrix is a two-dimensional array of numbers. Given a matrix, find all distinct elements common to all rows of the matrix. For example, consider the following matrix:
+
+1 2 1 4 8
+3 7 8 5 1
+8 7 7 3 1
+8 1 2 7 9
+
+The output should be 1 and 8.
+```
