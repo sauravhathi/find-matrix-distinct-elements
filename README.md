@@ -1,5 +1,7 @@
 # find-matrix-distinct-elements
  Find distinct elements common to all rows of a matrix.
+ 
+ ### https://sauravhathi.github.io/find-matrix-distinct-elements/
 
  Using this website, you can find the distinct elements common to all rows of a matrix. You can select the size of the matrix and enter the elements of the matrix. The distinct elements common to all rows of the matrix will be displayed.
 
