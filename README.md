@@ -1,6 +1,8 @@
 # find-matrix-distinct-elements
  Find distinct elements common to all rows of a matrix.
 
+ Using this website, you can find the distinct elements common to all rows of a matrix. You can select the size of the matrix and enter the elements of the matrix. The distinct elements common to all rows of the matrix will be displayed.
+
 ![image](https://user-images.githubusercontent.com/61316762/194877120-65c27364-2346-467f-ac05-58fca3a3fa67.png)
 
 ## 2x2 matrix
