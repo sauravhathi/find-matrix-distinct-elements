@@ -1,5 +1,7 @@
 # find-matrix-distinct-elements
  Find distinct elements common to all rows of a matrix.
+ 
+ ### https://sauravhathi.github.io/find-matrix-distinct-elements/
 
 ![image](https://user-images.githubusercontent.com/61316762/194877120-65c27364-2346-467f-ac05-58fca3a3fa67.png)
 
